@@ -6,6 +6,7 @@ public class Sbi {
 		// TODO Auto-generated method stub
 
 		System.out.println("Sbi Bank");
+		
 	}
 
 }
